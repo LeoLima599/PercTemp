@@ -4,7 +4,7 @@
     <string name="btnConPer">Grant GPS permission</string>
     <string name="btnAtvGps">Enable GPS</string>
     <string name="btnIniPer">Start Track</string>
-    <string name="lblDisPer">Distância Percorrida</string>
+    <string name="lblDisPer">Travelled distance</string>
     <string name="btnTerPer">End route</string>
     <string name="btnDesGps">Turn off GPS</string>
     <string name="txtPerCon">GPS permission already granted</string>

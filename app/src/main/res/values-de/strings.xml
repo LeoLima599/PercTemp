@@ -5,7 +5,7 @@
     <string name="btnAtvGps">Aktivieren Sie GPS</string>
     <string name="btnIniPer">Track starten</string>
     <string name="btnTerPer">Route beenden</string>
-    <string name="lblDisPer">Travelled distance</string>
+    <string name="lblDisPer">Zurückgelegte Strecke</string>
     <string name="btnDesGps">GPS ausschalten</string>
     <string name="txtPerCon">GPS-Genehmigung bereits erteilt</string>
     <string name="txtInpSea2">Google Maps durchsuchen ...</string>
